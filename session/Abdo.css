@@ -1,0 +1,126 @@
+body{
+    background-color: rgb(196, 202, 255);
+    margin: 0px auto;
+    
+    
+    
+    }
+    header{
+    background-color: rgb(255, 0, 157);
+    border-bottom: 1px solid coral;
+    position: 
+    
+    
+    
+    
+    }
+    ul{
+    margin: 30px;
+    padding: 0px;
+    text-align: center;
+    
+    }
+    li{
+    color: brown;
+    font-weight: 500px;
+    font-family: "oswald","sans-serif";
+    font-size: 30px;
+    width: 800px;
+    text-transform: uppercase;
+    display: inline;
+    padding: 20px;
+    }
+    li:hover{
+        color: blueviolet;
+    }
+    h1{
+font-family: "varela Round", sans-serif;
+color: #333;
+font-size: 26px;
+text-transform: uppercase;
+font-weight: 300px;
+font-style: italic;
+
+    }
+    h2{
+        font-family: "varela Round", sans-serif;
+        color: #333;
+        font-size: 18px;
+        text-transform: uppercase;
+        font-weight: 100px;
+        font-style: italic;
+        margin: 0 auto 20px auto;
+        
+            }
+            h3{
+color: #466995;
+font-family: "oswald",sans-serif;
+font-size: 18px;
+text-align: center;
+font-weight: 700px;
+text-transform: uppercase;
+padding: 30px;
+            }
+
+
+            h4{
+color: rgba(red, green, blue, 0.8);
+font-family: "oswald",sans-serif;
+font-size: 18px;;
+letter-spacing: 2px;
+text-align: center;
+text-transform: uppercase;
+
+            }
+            p{
+
+
+                color: hsl(225, 100%, 25%);
+                font-size: 18px;
+                font-family: "varela" sans-serif;
+
+            }
+
+
+            footer{
+background-color: hsl(255, 100%, 25%);
+text-align: center;
+height: 100px;
+
+
+
+            }
+            .welcome{
+background-color: hsl(225, 100%, 25%);
+padding: 40px;
+text-align: center;
+width: 100%;
+position: relative;
+top: 50px;
+box-sizing: border-box;
+            }
+            question{
+text-align: center;
+position: relative;
+top: 40px;
+clear: left;
+
+
+            }
+            .answer{
+                display: block;
+border: 1px solid blueviolet;
+display: block;
+margin: 20px;
+
+            }
+.answer:hover{
+color: deeppink;
+background-color: crimson;
+
+}
+h3:hover{
+    color: deeppink;
+    
+    }
+    

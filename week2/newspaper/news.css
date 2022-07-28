@@ -1,0 +1,98 @@
+body{
+/* box-sizing: border-box; */
+padding: 0px;
+margin: 0px;
+
+}
+
+
+.news{
+
+    height: 100vh;
+    width:100vw;
+    background-color: #eee;
+    display: grid;
+    grid-template-columns: repeat(3,2fr);
+    grid-template-rows: 100px auto 100px;
+    grid-template-areas:
+    "logo nav nav "
+    "cont cont aside"
+    "foot foot foot";
+}
+
+nav{
+    list-style: none;
+    padding: 0px;
+    text-align: center;
+    margin:0px;
+    grid-area: nav;
+    background-color: #eee;
+    color: black;
+
+
+}
+#nav li{
+
+    display: inline;
+}
+
+#nav a{
+    padding-left: 20px;
+    text-decoration: none;
+	font-family: Cambria, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+	color: #596365;
+
+}
+#nav a:hover {
+	text-decoration: none;
+	font-family: Cambria, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: normal;
+	letter-spacing: normal;
+	line-height: 1.3em;
+	color: #000;
+}
+
+
+h2{
+    grid-area: logo;
+
+
+}
+
+
+section{
+    grid-area: cont;
+    background-color: blue;
+    color: black;
+
+}
+
+aside{
+    grid-area: aside;
+    background-color: brown;
+    color:black;
+}
+
+footer{
+
+    grid-area: foot;
+    background-color: red;
+    color: cadetblue;
+}
+
+
+
+
+
+
+
+
