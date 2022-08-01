@@ -1,0 +1,249 @@
+#header{
+   
+    background-image: linear-gradient(to top right,#76C88D , #5446B7);
+    border: 500px;
+    height: 800px;
+    padding: 0px;
+    margin: 0px;
+}
+#cont{
+  
+    text-align: center;
+    word-spacing: 2px;
+        letter-spacing: 2px;
+        padding: 300px;
+
+}
+.a{
+
+
+    color: white;
+}
+.aaa{
+        font-size: 18px;
+        font-weight: 100px;  
+        width: 120px;
+}
+.aa{
+            font-size: 20px;
+             font-weight: 500px;
+             color: white;
+ 
+}
+h1,p{
+
+    color: white;
+
+}
+.main{
+
+    background-color: white;
+    height: 600px;
+
+
+
+}
+.ppp{ 
+    word-spacing: 2px;
+    color: black;
+        font-size: 20px;
+    padding: 200px 200px;
+
+}
+#head{
+        display: flex;
+        text-align: center; 
+    }
+#im{
+        width: 800px;
+        height: 600px;
+    padding: 100px 100px;
+  
+}
+.fast{
+        padding: 40px;
+        background-image: url("header.jpg");
+    
+        height: 900px; 
+
+}
+#artical{
+       color: white;
+        font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: italic;
+        font-weight: 200px;
+        padding-left: 900px;
+        position: relative;
+        bottom: 700px;
+
+}
+
+.icons i{
+width: 100px;
+height: 100px;
+
+}
+
+.fa-bolt{
+  /*  padding-top: 2em;
+    padding-left: 3em;*/
+    font-size: 80px;
+}
+.fa-camera-retro ,.fa-gear,.fa-3x,.fa-calendar,.fa-desktop{
+
+font-size: 80px;
+/*padding-left: 3em;
+padding-top: 2em;*/
+
+}
+
+
+.ahmed{
+    background-image: url("header.jpg");
+    height: 500px;
+    widows: 100%;
+
+
+}
+.shika{
+    padding-top:70px;
+    text-align: center;
+}
+#h{
+    color:rgba(0, 0, 0, 0.427);
+    font-size: 24px;
+    font-weight: 400;
+    font-style: italic;
+}
+#hr{
+    width: 40px;
+color: black;
+}
+#p{
+    color:rgba(0, 0, 0, 0.259);
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+
+}
+#hovar{
+    display: inline-block;
+    width: 140px;
+height: 30px;
+color:rgba(0, 0, 0, 0.313);
+
+}
+
+
+.zamalek{
+    height: 700px;
+    width: 100%;
+}
+.hh{    
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.495);
+    font-size: 24px;
+}
+.pp{
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.238);
+    font-size: 20px;  
+}
+#line{
+width: 150px;
+position: relative;
+padding-left: 50%;
+}
+#zizo{
+    position: relative;
+    padding-top: 40px;
+    text-align: center;
+    bottom: 500px;
+
+
+}
+.photo{
+    bottom: 399px;
+display: flex;
+padding-left: 170px;
+ text-align: center;
+ position: relative;
+ bottom:400px;
+}
+img{
+display: inline-block;
+    width: 400px;
+    height: 400px;
+    margin: 50px;
+}
+p{
+color: rgba(0, 0, 0, 0.259);
+
+}
+h1{
+color: rgba(0, 0, 0, 0.317);
+
+}
+#footer{
+
+height: 400px;
+width: 100%;
+background-image: linear-gradient(to top right,#76C88D , #5446B7);
+}
+#icon{
+
+text-align: center;
+padding-left: 800px;
+padding-top: 200px;
+
+}
+.fa-twitter,.fa-facebook,.fa-instagram,.fa-envelope{
+
+    font-size: 80px;
+    padding-left: 0.4em;
+
+}
+#tt{
+    word-spacing: 5px;
+    text-align: center;
+display: flex;
+padding-right: 80px;
+color: rgba(255, 255, 255, 0.825);
+}
+.abdo{
+
+        border: 3px solid black;
+        
+        position:absolute;
+        /* left: 50%; */
+        height: 100px;
+        color: white;
+}
+
+.icons i {
+    font-size: 60px;
+    padding: 30px;
+    padding-left: 200px;
+    padding-top: 150px;
+}
+.icons li{
+   
+    border: 1px solid white;
+padding: 45px;
+margin: 20px; 
+
+
+}
+
+.icons li{
+
+    transform: rotate(-45deg);
+}
+.icons i{
+   
+    position: relative;
+        right:150px;
+        bottom: 100px;
+    transform: rotate(45deg);
+}
